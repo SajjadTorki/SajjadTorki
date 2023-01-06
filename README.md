@@ -1,7 +1,7 @@
 Hi 👋 My name is SajjadTorki
 ============================
 
-Front-End Developer
+.NetCore developer/React developer/BI Deveopler
 -------------------
 
 I have learning code in 2 years. I start HTML & CSS & Java Script with Jonas Schmedtmann,and now I learn React.Js.
