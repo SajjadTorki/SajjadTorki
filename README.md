@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋, I'm SajjdTorki</h1>
-<h3 align="center">Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Sajjad Torki</h1>
+<h3 align="center">Full Stack Developer --> (Django & React )</h3>
 
-- 🔭 I’m currently working on **Web Api**
+- 🔭 I’m currently working on **Accounting Site**
 
-- 💬 Ask me about **PowerBI/.NetCore/React**
+- 🌱 I’m currently learning **Data Analysis and Improve my skill**
+
+- 💬 Ask me about **Django ;)**
+
+- 📫 How to reach me **sajjadtorki72@gmail.com**
+
+- 📄 Know about my experiences [Data Analysis](Data Analysis)
+
+- ⚡ Fun fact **Every day is war for me ;-)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
